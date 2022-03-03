@@ -44,7 +44,7 @@ Describe your data set, including a link to the data.
 <img src="https://media.discordapp.net/attachments/899489276700557352/949055992476352562/unknown.png?width=894&height=676">
 <img src="https://media.discordapp.net/attachments/899489276700557352/949052988763275294/unknown.png?width=879&height=676">
 <img src="https://media.discordapp.net/attachments/899489276700557352/949056292331339836/unknown.png?width=887&height=676">
-<img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949053807650828318/unknown.png?width=876&height=676">
 
 
 ## Conclusion
