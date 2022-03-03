@@ -36,7 +36,7 @@ Describe your data set, including a link to the data.
 
 ## Discoveries & Insights
 
-![Image](https://cdn.discordapp.com/attachments/899489276700557352/949040820491792423/unknown.png | width=1200)
+<img src="https://cdn.discordapp.com/attachments/899489276700557352/949040820491792423/unknown.png" width="100" height="100">
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/949040820491792423/unknown.png)
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/949040820491792423/unknown.png)
 ![Image](https://cdn.discordapp.com/attachments/899489276700557352/949040820491792423/unknown.png)
