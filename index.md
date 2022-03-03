@@ -36,8 +36,7 @@ Describe your data set, including a link to the data.
 
 ## Discoveries & Insights
 
-Images should be large and easy to see and interperate. 
-Captions underneath should be 20-70 words long.
+![Image](https://cdn.discordapp.com/attachments/899489276700557352/949040820491792423/unknown.png)
 
 ## Conclusion
 
