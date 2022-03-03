@@ -12,7 +12,7 @@ This data shows the amount of overdose deaths for Connecticut residents from 201
 
 Specifically I am interested in this data because I have had friends who have had drug problems in the past. I am interested to find out the specific driving forces for which demographic abuses these drugs the most. Even though this is only for the state of Connecticut, I am interested in finding out the current trends for each specific drug. I specifically want to learn more about which drug is the most dangerous amonst all the others. This will be a great oppurtunity to share this information with friends, family, and others who might be dealing with a drug problem. 
 
-Here is the [Kaggle Data](https://www.kaggle.com/ruchi798/drug-overdose-deaths) 
+Here is the [Kaggle Data](https://www.kaggle.com/ruchi798/drug-overdose-deaths) I used.
 
 
 
