@@ -69,8 +69,8 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 
 ## Conclusion
 
-Final summary of the data and what you found during this project.
+This data shows the amount of drug overdose deaths in the state of Connecticut from 2012 to 2018. The data is broken up into many different categories including sex, age, race and location of death including the county and the city. It is shown throughout these visualizations that middle aged white men who live in Hartford city have the highest amount of drug related deaths. The top three drugs for these deaths include Heroin, Fentanyl, and Cocaine. Drawing from the fact that this data was conducted from 2012 to 2018 it would be interesting to see if any of the drugs change. In the second to last graph it shows a dip in the amount of Heroin deaths and a rise in Fentanyl deaths. 
 
 ## Sources
 
-Did any sources help you understand your data better? Make sure to cite them.
+ [Kaggle Data](https://www.kaggle.com/ruchi798/drug-overdose-deaths)
