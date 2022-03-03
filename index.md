@@ -1,5 +1,5 @@
 ---
-title: Paste Special by Cole Doherty
+title: Drug Overdose Deaths in Connecticut From 2012 to 2018 by Cole Doherty
 ---
 
 ## Introduction
