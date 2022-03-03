@@ -23,6 +23,8 @@ Describe your data set, including a link to the data.
 
 ## Initial Questions
 
+I initially had a very difficult time picking out a dataset. I had no idea what I wanted to do and none of the datasets that were given drew any interest to me. I searched and searched through Kaggle until I stumbled upon this datset. There were a lot of different categories that I knew I could draw from. Sex, age, race, city were all very interesting to compare drug deaths to. I knew that with these subcategories I could draw detailed questions and make well thought out conclusions about the data. I was really curious to see how these different demographics played a role in the amount drug deaths there are. 
+
 - What initially drew you to this data? 
 - What were you currious about? 
 
@@ -69,7 +71,7 @@ Describe your data set, including a link to the data.
 
 <br />
 
-<img src="https://media.discordapp.net/attachments/899489276700557352/949053570177703966/unknown.png?width=857&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949069839425736784/unknown.png?width=572&height=676">
 
 <br />
 
