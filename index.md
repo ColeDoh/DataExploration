@@ -1,7 +1,7 @@
 ---
 title: Drug Overdose Deaths in Connecticut From 2012 to 2018
-title: By Cole Doherty
 ---
+## Written by Cole Doherty
 
 ## Introduction
 This data explores the amount of drug overdose deaths for each top drug in Connecticut. The data explores many different categories including age, city, and sex to see if there is a correlation between each. The data shows that the top three drugs in the state of Connecticut are Fentanyl, Cocaine, and Heroin. There is a deep correlation between these top three drugs and the age, sex, race and city you live in. White middle aged men who live in the most populous cities in Connecticut (Hartford, Bridgeport, and New Haven) have the highest drug overdose deaths in Connecticut compared to any other demographic. My data directly compares sex, age, and race through the use of bar, line and pie charts to support my discoveries. Interestingly, but also expected the data shows a stark age difference between drug overdose deaths. Heroin seems to be a younger drug with 85 deaths at age 29, compared to Cocaine deaths being a much more appealing drug for older people. There were only 38 Cocaine deaths at age 29.
@@ -37,9 +37,9 @@ Describe your data set, including a link to the data.
 ## Discoveries & Insights
 
 <img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png">
-
+ll
 ---
-
+gg
 <img src="https://media.discordapp.net/attachments/899489276700557352/949051357430702110/unknown.png?width=580&height=676">
 
 <br />
