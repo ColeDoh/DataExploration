@@ -8,6 +8,12 @@ This data explores the amount of drug overdose deaths for each top drug in Conne
 
 ## Dataset 
 
+This data shows the amount of overdose deaths for Connecticut residents from 2012 to 2018. This includes drugs like heroin, fentanyl, and cocaine. The data is also broken up into many different sub categories including sex, race, age, and loacation of the death(city and county). This dataset was found on kaggle which is a free to use website where users can publish and explore data sets. The data set was published by a women named Ruchi Bhatia, a data scientist at OpenMind. She is a Kaggle grandmaster meaning she is well respected and reliable. She produced this data "to examine trends in polysubstance detection associated with drug-related overdose deaths".
+
+Specifically I am interested in this data because I have had friends who have had drug problems in the past. I am interested to find out the specific driving forces for which demographic abuses these drugs the most. Even though this is only for the state of Connecticut, I am interested in finding out the current trends for each specific drug. I specifically want to learn more about which drug is the most dangerous amonst all the others. This will be a great oppurtunity to share this information with friends, family, and others who might be dealing with a drug problem. 
+
+
+
 Describe your data set, including a link to the data. 
 - What is this data about?
 - Who collected or produced this dataset? Why?
