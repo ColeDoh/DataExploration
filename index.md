@@ -38,10 +38,11 @@ Describe your data set, including a link to the data.
 
 <img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png">
 
-<br>
+<br />
+---
 <img src="https://media.discordapp.net/attachments/899489276700557352/949051357430702110/unknown.png?width=580&height=676">
-hr { display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}
-<br>
+
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949051785904021604/unknown.png?width=880&height=676">
 <br>
 <img src="https://media.discordapp.net/attachments/899489276700557352/949052157171224637/unknown.png?width=815&height=676">
