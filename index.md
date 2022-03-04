@@ -27,8 +27,7 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 ## Discoveries & Insights
 
 <img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png">
-<hr> 
-<hr/>
+
 <br />
 <br />
 
