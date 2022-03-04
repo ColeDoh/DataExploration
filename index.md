@@ -26,20 +26,20 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 
 # Discoveries & Insights
 
-<center><img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png"></center>
+<center><img src="https://media.discordapp.net/attachments/899489276700557352/949172390582190110/unknown.png?width=853&height=676"></center>
 
 <br />
 <br />
 
-<center><img src="https://media.discordapp.net/attachments/899489276700557352/949051357430702110/unknown.png?width=580&height=676"></center>
+<center><img src="https://media.discordapp.net/attachments/899489276700557352/949172804480282624/unknown.png?width=850&height=676"></center>
 
 <br />
 <br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949051785904021604/unknown.png?width=880&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949173218462277642/unknown.png?width=848&height=676">
 
 <br />
 <br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949052157171224637/unknown.png?width=815&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949173347386806344/unknown.png">
 
 <br />
 <br />
@@ -47,23 +47,23 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 
 <br />
 <br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949055992476352562/unknown.png?width=894&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949173984426086410/unknown.png?width=853&height=676">
 
 <br />
 <br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949052988763275294/unknown.png?width=879&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949174233068613652/unknown.png?width=855&height=676">
 
 <br />
 <br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949056292331339836/unknown.png?width=887&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949175093089669120/unknown.png?width=846&height=676">
 
 <br />
 <br />
-<center><img src="https://media.discordapp.net/attachments/899489276700557352/949069839425736784/unknown.png?width=572&height=676"></center>
+<center><img src="https://media.discordapp.net/attachments/899489276700557352/949175441669890111/unknown.png?width=867&height=676"></center>
 
 <br />
 <br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949053807650828318/unknown.png?width=876&height=676">
+<img src="https://media.discordapp.net/attachments/899489276700557352/949175661589823498/unknown.png?width=851&height=676">
 
 <br />
 <br />
