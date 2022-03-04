@@ -1,12 +1,12 @@
 ---
 title: Drug Overdose Deaths in Connecticut From 2012 to 2018
 ---
-## Written by Cole Doherty
+### Written by Cole Doherty
 
-## Introduction
+# Introduction
 This data explores the amount of drug overdose deaths for each top drug in Connecticut. It explores many different categories including age, city, and sex to see if there is a correlation between each. The data shows that the top three drugs in the state of Connecticut are Fentanyl, Cocaine, and Heroin. There is a deep correlation between these top three drugs and the age, sex, race and city you live in. White middle aged men who live in the most populous cities in Connecticut (Hartford, Bridgeport, and New Haven) have the highest drug overdose deaths in Connecticut compared to any other demographic. My data directly compares sex, age, and race through the use of bar, line and pie charts to support my discoveries. Interestingly, but also expected the data shows a stark age difference between drug overdose deaths. Heroin seems to be a younger drug with 85 deaths at age 29, compared to Cocaine deaths being a much more appealing drug for older people. There were only 38 Cocaine deaths at age 29.
 
-### Dataset 
+# Dataset 
 
 This data shows the amount of overdose deaths for Connecticut residents from 2012 to 2018. This includes drugs like heroin, fentanyl, and cocaine. The data is also broken up into many different sub categories including sex, race, age, and loacation of the death(city and county). This dataset was found on kaggle which is a free to use website where users can publish and explore data sets. The data set was published by a woman named Ruchi Bhatia, a data scientist at OpenMind. She is a Kaggle grandmaster meaning she is well respected and reliable. She produced this data "to examine trends in polysubstance detection associated with drug-related overdose deaths''.
 
@@ -14,7 +14,7 @@ Specifically I am interested in this data because I have had friends who have ha
 
 Here is the [Kaggle Data](https://www.kaggle.com/ruchi798/drug-overdose-deaths) I used.
 
-## Initial Questions
+# Initial Questions
 
 I initially had a very difficult time picking out a dataset. I had no idea what I wanted to do and none of the datasets that were given drew any interest to me. I searched and searched through Kaggle until I stumbled upon this data set. There were a lot of different categories that I knew I could draw from. Sex, age, race, city were all very interesting to compare drug deaths to. I knew that with these subcategories I could draw detailed questions and make well thought out conclusions about the data. I was really curious to see how these different demographics played a role in the amount of drug deaths there are. 
 
@@ -24,7 +24,7 @@ I was very surprised to see that Fentanyl deaths were on a consistent rise throu
 
 Overall the data was very easy to use. There was no need to wrangle the data at all. The issue was most definitely finding an interesting enough data set with a lot of sub categories to compare to one another.
 
-## Discoveries & Insights
+# Discoveries & Insights
 
 <center><img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png"></center>
 
@@ -67,11 +67,11 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 
 <br />
 <br />
-## Conclusion
+# Conclusion
 
 This data shows the amount of drug overdose deaths in the state of Connecticut from 2012 to 2018. The data is broken up into many different categories including sex, age, race and location of death including the county and the city. It is shown throughout these visualizations that middle aged white men who live in Hartford city have the highest amount of drug related deaths. The top three drugs for these deaths include Heroin, Fentanyl, and Cocaine. Drawing from the fact that this data was conducted from 2012 to 2018 it would be interesting to see if any of the drugs change. In the second to last graph it shows a dip in the amount of Heroin deaths and a rise in Fentanyl deaths. 
 
-## Sources
+# Sources
 
  [Kaggle Data](https://www.kaggle.com/ruchi798/drug-overdose-deaths)
 
