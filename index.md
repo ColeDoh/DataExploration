@@ -27,46 +27,46 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 ## Discoveries & Insights
 
 <img src="https://cdn.discordapp.com/attachments/899489276700557352/949050124615692288/unknown.png">
-<hr style="border:2px solid gray"> </hr>
+
 <br />
-<hr />
+<br />
 
 <img src="https://media.discordapp.net/attachments/899489276700557352/949051357430702110/unknown.png?width=580&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949051785904021604/unknown.png?width=880&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949052157171224637/unknown.png?width=815&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949052415842340864/unknown.png?width=870&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949055992476352562/unknown.png?width=894&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949052988763275294/unknown.png?width=879&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949056292331339836/unknown.png?width=887&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949069839425736784/unknown.png?width=572&height=676">
 
 <br />
-
+<br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949053807650828318/unknown.png?width=876&height=676">
 
 <br />
-
+<br />
 ## Conclusion
 
 This data shows the amount of drug overdose deaths in the state of Connecticut from 2012 to 2018. The data is broken up into many different categories including sex, age, race and location of death including the county and the city. It is shown throughout these visualizations that middle aged white men who live in Hartford city have the highest amount of drug related deaths. The top three drugs for these deaths include Heroin, Fentanyl, and Cocaine. Drawing from the fact that this data was conducted from 2012 to 2018 it would be interesting to see if any of the drugs change. In the second to last graph it shows a dip in the amount of Heroin deaths and a rise in Fentanyl deaths. 
