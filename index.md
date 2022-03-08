@@ -26,6 +26,11 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 
 # Discoveries & Insights
 
+<img src="https://media.discordapp.net/attachments/899489276700557352/949173746453872640/unknown.png?width=848&height=676">
+
+<br />
+<br />
+
 <center><img src="https://media.discordapp.net/attachments/899489276700557352/949172390582190110/unknown.png?width=853&height=676"></center>
 
 <br />
@@ -41,9 +46,6 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 <br />
 <img src="https://media.discordapp.net/attachments/899489276700557352/949178316676542464/unknown.png?width=840&height=676">
 
-<br />
-<br />
-<img src="https://media.discordapp.net/attachments/899489276700557352/949173746453872640/unknown.png?width=848&height=676">
 
 <br />
 <br />
