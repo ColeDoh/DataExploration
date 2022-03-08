@@ -61,7 +61,7 @@ Overall the data was very easy to use. There was no need to wrangle the data at 
 
 <br />
 <br />
-<center><img src="https://media.discordapp.net/attachments/899489276700557352/949175441669890111/unknown.png?width=867&height=676"></center>
+<center><img src="https://cdn.discordapp.com/attachments/899489276700557352/950901066411679774/unknown.png?width=851&height=676"></center>
 
 <br />
 <br />
